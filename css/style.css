@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-variant: lining-nums;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+
+
+html, body {
+    height: 100%;
+    overflow-x:hidden;
+    background:url(/img/black-carbon-texture-background\ 1.png)
+}
+
+.techcata_header{
+    max-width: 1127px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+
+.techcata_image1{
+    padding-right: 16px;
+
+}
+
+.techcata_image2{
+    padding-right: 18px;
+    
+}
+
+.techcata_image3{
+    padding-right: 20px;
+    
+}
+
+.techcata_image4{
+    padding-right: 22px;
+    
+}
+
+.techcata_image5{
+    padding-right: 20px;
+    
+}
+
+.techcata_image6{
+    padding-right: 14px;
+    
+}
+
+.techcata_image7{
+    padding-right: 14px;
+    
+}
+
+.techcata_unheader{
+    max-width: 1128px;
+    height: 96px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.techcata_unhead1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: right;
+    color: #FFFFFF;
+    border-right: 2px solid rgba(255, 255, 255, 0.5);
+    padding-right: 50px;
+}
+
+.techcata_unhead2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    padding-left: 50px;
+    padding-top: 24px;
+}
+
+.tachcata_content{
+    width: 698px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.techcata_block1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 26px;
+    margin-bottom: 40px;
+}
+
+.techcata_text1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-right: 50px;
+    border-right: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+.techcata_text2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-left: 50px;
+}
+
+.techcata_block2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 90px;
+    margin-bottom: 70px;
+ 
+}
+
+.techcata_texts1{
+    border-right: 2px solid rgba(255, 255, 255, 0.5);
+    padding-right: 50px;
+    text-align: right;
+}
+
+.techcata_text3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    color: #FFFFFF;
+    padding-bottom: 12px;
+
+}
+
+.techcata_texts2{
+    padding-left: 50px;
+    text-align: left; 
+}
+
+.techcata_text4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding-bottom: 12px;
+}
+
+.techcata_mail{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+
+}
+
+.techcata_copy{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+}
+
