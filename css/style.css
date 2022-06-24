@@ -20,7 +20,7 @@ html, body {
 }
 
 .techcata_header{
-    max-width: 1127px;
+    max-width: 840px;
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -65,18 +65,44 @@ html, body {
     
 }
 
-.techcata_unheader{
-    max-width: 1128px;
-    height: 96px;
+.techcata_container{
+    max-width: 1172px;
     width: 100%;
-    margin: 0 auto;
     display: flex;
-    flex-direction: row;
     justify-content: center;
-    margin-bottom: 150px;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-right: 170px;
+    margin-bottom: 70px;
 }
 
-.techcata_unhead1{
+.techcata_block1{
+    max-width: 504px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    text-align: right;
+    margin-right: 50px;
+}
+
+.techcata_block2{
+    width: 2px;
+    min-height: 310px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.techcata_block3{
+    max-width: 523px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.techcata_head1{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 800;
@@ -84,34 +110,7 @@ html, body {
     line-height: 48px;
     text-align: right;
     color: #FFFFFF;
-    border-right: 2px solid rgba(255, 255, 255, 0.5);
-    padding-right: 50px;
-}
-
-.techcata_unhead2{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 40px;
-    line-height: 48px;
-    color: #FFFFFF;
-    padding-left: 50px;
-    padding-top: 24px;
-}
-
-.tachcata_content{
-    width: 698px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.techcata_block1{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin-right: 26px;
-    margin-bottom: 40px;
+    padding-bottom: 150px;
 }
 
 .techcata_text1{
@@ -121,36 +120,11 @@ html, body {
     font-size: 20px;
     line-height: 24px;
     color: #FFFFFF;
-    padding-right: 50px;
-    border-right: 2px solid rgba(255, 255, 255, 0.5);
+    padding-bottom: 42px;
+
 }
 
 .techcata_text2{
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
-    color: #FFFFFF;
-    padding-left: 50px;
-}
-
-.techcata_block2{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin-right: 90px;
-    margin-bottom: 70px;
- 
-}
-
-.techcata_texts1{
-    border-right: 2px solid rgba(255, 255, 255, 0.5);
-    padding-right: 50px;
-    text-align: right;
-}
-
-.techcata_text3{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -162,9 +136,66 @@ html, body {
 
 }
 
-.techcata_texts2{
-    padding-left: 50px;
-    text-align: left; 
+.techcata_mail1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+
+}
+
+.techcata_line1{
+    width: 2px;
+    height: 96px;
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 150px;
+}
+
+.techcata_line2{
+    width: 2px;
+    height: 24px;
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 40px;
+}
+
+.techcata_line3{
+    width: 2px;
+    height: 81px;
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.techcata_head2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: left;
+    color: #FFFFFF;
+    padding-bottom: 174px;
+    padding-top: 24px;
+}
+
+.techcata_text3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-bottom: 42px;
+
 }
 
 .techcata_text4{
@@ -173,11 +204,13 @@ html, body {
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
+    text-align: left;
     color: #FFFFFF;
     padding-bottom: 12px;
+
 }
 
-.techcata_mail{
+.techcata_mail2{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -194,6 +227,7 @@ html, body {
     font-size: 18px;
     line-height: 22px;
     color: rgba(255, 255, 255, 0.8);
-    text-align: center;
-}
+    display: flex;
+    justify-content: center;
 
+}
