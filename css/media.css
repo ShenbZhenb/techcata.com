@@ -30,6 +30,39 @@
             }
 }
 
+@media screen and (max-width: 1130px){
+    .techcata_header{
+        margin-top: 70px;
+        margin-bottom: 50px;
+        
+    }
+
+
+    .techcata_mail2{
+        padding-top: 0;
+    }
+
+    .techcata_head1{
+        padding-bottom: 100px;
+    }
+
+    .techcata_head2{
+        padding-bottom: 124px;
+    }
+
+    .techcata_container{
+        margin: 0 auto 35px;
+        }
+
+        .techcata_block2{
+              margin-top: 35px;
+            }    
+
+            .techcata_line1{
+                margin-bottom: 115px;
+            }
+}
+
 @media screen and (max-width: 854px){
     .techcata_header{
         max-width: 840px;
@@ -125,7 +158,7 @@
         width: 100%;
         margin-top: 70px;
         margin-bottom: 50px;
-        margin-left: 18px;
+        
     }
 
     
@@ -158,14 +191,14 @@
 
 }
 
-@media screen and (max-width: 730px){
+@media screen and (max-width: 733px){
 
     .techcata_header{
         max-width: 840px;
         width: 100%;
         margin-top: 70px;
         margin-bottom: 50px;
-        margin-left: 18px;
+       
     }
 
     .techcata_header{
@@ -306,7 +339,7 @@
         width: 100%;
         margin-top: 70px;
         margin-bottom: 50px;
-        margin-left: 18px;
+       
     }
 
     .techcata_header{
@@ -452,7 +485,7 @@
         width: 100%;
         margin-top: 70px;
         margin-bottom: 50px;
-        margin-left: 18px;
+    
     }
 
     .techcata_header{
@@ -612,7 +645,7 @@
     }
 
     .techcata_container{
-        margin-left: 18px;
+        
     }
 
     .techcata_header{
@@ -964,88 +997,289 @@
 
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 376px){
 
     .techcata_dekstop{
-        display: none;
+    display: none;
     
-        
+    
     }
     
-
-
+    
     .html, body{
-        background-image: url(/img/black-carbon-texture-background\ 2.png);
-        max-width: 375px;
-        height: 630px;
+    background-image: url(/img/black-carbon-texture-background\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 375px;
+    height: 630px;
     }
     
     .techcata_mobile{
-        display: block;
+    display: block;
     
-        
+    
     }
     
     .techcata_mheader{
+    width: 100%;
+    max-width: 375px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    }
+    
+    .techcata_mimage1{
+    padding-right: 5px;
+    
+    }
+    
+    .techcata_mimage2{
+    padding-right: 6px;
+    
+    }
+    
+    .techcata_mimage3{
+    padding-right: 6px;
+    
+    }
+    
+    .techcata_mimage4{
+    padding-right: 7px;
+    
+    }
+    
+    .techcata_mimage5{
+    padding-right: 6px;
+    
+    }
+    
+    .techcata_mimage6{
+    padding-right: 5px;
+    
+    }
+    
+    .techcata_mimage7{
+    padding-right: 5px;
+    
+    }
+    
+    .techcata_mcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    }
+    
+    .techcata_mblock1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 320px;
+    }
+    
+    .techcata_mhead1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    
+    }
+    
+    .techcata_mline1{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    max-width: 136px;
+    align-items: center;
+    margin: 0 auto 12px;
+    }
+    
+    .techcata_mhead2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 76px;
+    
+    
+    }
+    
+    
+    .techcata_mtext1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+    }
+    
+    .techcata_mline2{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 136px;
+    align-self: center;
+    margin: 0 auto 10px;
+    }
+    
+    .techcata_mtext2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 25px;
+    color: #FFFFFF;
+    }
+    
+    .techcata_mtext3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+    }
+    
+    .techcata_mtext4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    }
+    
+    .techcata_mline3{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 136px;
+    align-self: center;
+    margin: 0 auto 10px;
+    }
+    
+    .techcata_mail{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+    
+    }
+    
+    .techcata_mcopy{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    
+    }
+    
+    }
+
+    @media screen and (max-width: 426px){
+
+        .techcata_dekstop{
+        display: none;
+        
+        
+        }
+        
+        
+        .html, body{
+        background-image: url(/img/black-carbon-texture-background\ 2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width: 425px;
+        height: 630px;
+        }
+        
+        .techcata_mobile{
+        display: block;
+        
+        
+        }
+        
+        .techcata_mheader{
         width: 100%;
-        max-width: 375px;
+        max-width: 425px;
         display: flex;
         flex-direction: row;
         justify-content: center;
         margin-top: 50px;
         margin-bottom: 40px;
-    }
-    
-    .techcata_mimage1{
+        }
+        
+        .techcata_mimage1{
         padding-right: 5px;
-    
-    }
-    
-    .techcata_mimage2{
+        
+        }
+        
+        .techcata_mimage2{
         padding-right: 6px;
         
-    }
-    
-    .techcata_mimage3{
+        }
+        
+        .techcata_mimage3{
         padding-right: 6px;
         
-    }
-    
-    .techcata_mimage4{
+        }
+        
+        .techcata_mimage4{
         padding-right: 7px;
         
-    }
-    
-    .techcata_mimage5{
+        }
+        
+        .techcata_mimage5{
         padding-right: 6px;
         
-    }
-    
-    .techcata_mimage6{
+        }
+        
+        .techcata_mimage6{
         padding-right: 5px;
         
-    }
-    
-    .techcata_mimage7{
+        }
+        
+        .techcata_mimage7{
         padding-right: 5px;
         
-    }
-    
-    .techcata_mcontainer{
+        }
+        
+        .techcata_mcontainer{
         display: flex;
         flex-direction: column;
         justify-content: center;
+        align-items: center;
         text-align: center;
-    }
-    
-    .techcata_mblock1{
+        }
+        
+        .techcata_mblock1{
         display: flex;
         flex-direction: column;
         justify-content: center;
         max-width: 320px;
-    }
-    
-    .techcata_mhead1{
+        }
+        
+        .techcata_mhead1{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 800;
@@ -1054,18 +1288,19 @@
         text-align: center;
         color: #FFFFFF;
         margin-bottom: 12px;
-    
-    }
-    
-    .techcata_mline1{
+        
+        }
+        
+        .techcata_mline1{
         border: 2px solid rgba(255, 255, 255, 0.5);
         background-color: rgba(255, 255, 255, 0.5);
+        width: 100%;
         max-width: 136px;
-        margin-bottom: 12px;
-       margin-left: 92px;
-    }
-    
-    .techcata_mhead2{
+        align-items: center;
+        margin: 0 auto 12px;
+        }
+        
+        .techcata_mhead2{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 800;
@@ -1074,12 +1309,12 @@
         text-align: center;
         color: #FFFFFF;
         margin-bottom: 76px;
-    
-    
-    }
-    
-    
-    .techcata_mtext1{
+        
+        
+        }
+        
+        
+        .techcata_mtext1{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -1087,18 +1322,17 @@
         line-height: 19px;
         margin-bottom: 10px;
         color: #FFFFFF;
-    }
-    
-    .techcata_mline2{
+        }
+        
+        .techcata_mline2{
         border: 2px solid rgba(255, 255, 255, 0.5);
         background-color: rgba(255, 255, 255, 0.5);
         max-width: 136px;
         align-self: center;
-        margin-bottom: 10px;
-        margin-left: 92px;
-    }
-    
-    .techcata_mtext2{
+        margin: 0 auto 10px;
+        }
+        
+        .techcata_mtext2{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -1106,9 +1340,9 @@
         line-height: 19px;
         margin-bottom: 25px;
         color: #FFFFFF;
-    }
-    
-    .techcata_mtext3{
+        }
+        
+        .techcata_mtext3{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -1116,9 +1350,9 @@
         line-height: 19px;
         margin-bottom: 10px;
         color: #FFFFFF;
-    }
-    
-    .techcata_mtext4{
+        }
+        
+        .techcata_mtext4{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -1126,18 +1360,17 @@
         line-height: 19px;
         margin-bottom: 15px;
         color: #FFFFFF;
-    }
-    
-    .techcata_mline3{
+        }
+        
+        .techcata_mline3{
         border: 2px solid rgba(255, 255, 255, 0.5);
         background-color: rgba(255, 255, 255, 0.5);
         max-width: 136px;
         align-self: center;
-        margin-bottom: 10px;
-        margin-left: 92px;
-    }
-    
-    .techcata_mail{
+        margin: 0 auto 10px;
+        }
+        
+        .techcata_mail{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 700;
@@ -1146,10 +1379,10 @@
         text-align: center;
         color: #FFFFFF;
         margin-bottom: 50px;
-    
-    }
-    
-    .techcata_mcopy{
+        
+        }
+        
+        .techcata_mcopy{
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -1157,9 +1390,7 @@
         line-height: 18px;
         text-align: center;
         color: rgba(255, 255, 255, 0.8);
-    
-    }
-    
-    }
-    
-
+        
+        }
+        
+        }
