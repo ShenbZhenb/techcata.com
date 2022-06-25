@@ -71,36 +71,36 @@ html, body {
     display: flex;
     justify-content: center;
     flex-direction: row;
-    margin: 0 auto;
-    margin-right: 170px;
-    margin-bottom: 70px;
-}
+    margin: 0 auto 70px;
+    }
 
-.techcata_block1{
-    max-width: 504px;
-    display: flex;
-    flex-direction: column;
-    justify-content: right;
-    text-align: right;
-    margin-right: 50px;
-}
-
-.techcata_block2{
-    width: 2px;
-    min-height: 310px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.techcata_block3{
-    max-width: 523px;
-    display: flex;
-    flex-direction: column;
-    justify-content: left;
-    text-align: left;
-    margin-left: 50px;
-}
+    .techcata_block1{
+        width: 100%;
+        max-width: 504px;
+        display: flex;
+        flex-direction: column;
+        justify-content: right;
+        text-align: right;
+        margin-right: 50px;
+        }
+        
+        .techcata_block2{
+        width: 2px;
+        min-height: 310px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        }
+        
+        .techcata_block3{
+        width: 100%;
+        max-width: 523px;
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        text-align: left;
+        margin-left: 50px;
+        }
 
 .techcata_head1{
     font-family: 'Inter';
@@ -218,6 +218,7 @@ html, body {
     line-height: 22px;
     color: #FFFFFF;
 
+
 }
 
 .techcata_copy{
@@ -230,4 +231,12 @@ html, body {
     display: flex;
     justify-content: center;
 
+}
+
+.techcata_shift{
+    display: none;
+}
+
+.techcata_mobile{
+    display: none;
 }

@@ -1,0 +1,1165 @@
+@media screen and (max-width: 1024px){
+    .techcata_header{
+        margin-top: 70px;
+        margin-bottom: 50px;
+        
+    }
+
+    .techcata_mail2{
+        padding-top: 0;
+    }
+
+    .techcata_head1{
+        padding-bottom: 100px;
+    }
+
+    .techcata_head2{
+        padding-bottom: 124px;
+    }
+
+    .techcata_container{
+        margin: 0 auto 35px;
+        }
+
+        .techcata_block2{
+              margin-top: 35px;
+            }    
+
+            .techcata_line1{
+                margin-bottom: 115px;
+            }
+}
+
+@media screen and (max-width: 854px){
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+    
+    .techcata_image1{
+        padding-right: 16px;
+        width: 79px;
+        height: 66px;
+    
+    }
+    
+    .techcata_image2{
+        padding-right: 18px;
+        width: 68px;
+        height: 66px;
+        
+    }
+    
+    .techcata_image3{
+        padding-right: 20px;
+        width: 83px;
+        height: 68px;
+        
+    }
+    
+    .techcata_image4{
+        padding-right: 22px;
+        width: 81px;
+        height: 66px;
+        
+    }
+    
+    .techcata_image5{
+        padding-right: 20px;
+        width: 83px;
+        height: 68px;
+        
+    }
+    
+    .techcata_image6{
+        padding-right: 14px;
+        width: 81px;
+        height: 67px;
+        
+    }
+    
+    .techcata_image7{
+        padding-right: 14px;
+        width: 79px;
+        height: 66px;
+        
+        
+    }
+
+    .techcata_image8{
+        width: 81px;
+        height: 67px;
+    }
+
+    .techcata_head1{
+        padding-bottom: 100px;
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .techcata_head2{
+        padding-bottom: 116px;
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .techcata_container{
+        margin: 0 auto 35px;
+        }
+
+        .techcata_block2{
+              margin-top: 10px;
+            }    
+
+            .techcata_line1{
+                margin-bottom: 115px;
+            }
+}
+
+@media screen and (max-width: 768px){
+    
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        margin-left: 18px;
+    }
+
+    
+    
+    .techcata_head1{
+        padding-top: 24px;
+        padding-bottom: 130px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    .techcata_head2{
+        padding-top: 36px;
+        padding-bottom: 154px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+
+    .techcata_text3{
+        padding-bottom: 38px;
+    
+    
+    
+    }
+
+    .techcata_mail2{
+        padding-top: 0;
+    }
+
+}
+
+@media screen and (max-width: 730px){
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        margin-left: 18px;
+    }
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+    
+    .techcata_image1{
+        padding-right: 14px;
+        width: 72px;
+        height: 59px;
+    
+    }
+    
+    .techcata_image2{
+        padding-right: 16px;
+        width: 61px;
+        height: 59px;
+        
+    }
+    
+    .techcata_image3{
+        padding-right: 18px;
+        width: 76px;
+        height: 61px;
+        
+    }
+    
+    .techcata_image4{
+        padding-right: 20px;
+        width: 74px;
+        height: 59px;
+        
+    }
+    
+    .techcata_image5{
+        padding-right: 18px;
+        width: 76px;
+        height: 61px;
+        
+    }
+    
+    .techcata_image6{
+        padding-right: 14px;
+        width: 74px;
+        height: 60px;
+        
+    }
+    
+    .techcata_image7{
+        padding-right: 14px;
+        width: 72px;
+        height: 59px;
+        
+        
+    }
+
+    .techcata_image8{
+        width: 74px;
+        height: 60px;
+    }
+    
+    .techcata_head1{
+        padding-top: 24px;
+        padding-bottom: 130px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .techcata_head2{
+        padding-top: 36px;
+        padding-bottom: 145px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+
+    .techcata_text3{
+        padding-bottom: 44px;
+    
+    }
+
+    .techcata_block1{
+        margin-right: 30px;
+    }
+
+    .techcata_block3{
+        margin-left: 30px;
+    }
+
+    .techcata_text1{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+    
+    .techcata_text2{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+
+    .techcata_text3{
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .techcata_text4{
+        font-size: 16px;
+        line-height: 19px;
+        padding-bottom: 11px;
+    }
+    
+    .techcata_mail1{
+        font-size: 16px;
+        line-height: 19px;
+    }    
+
+    .techcata_mail2{
+        font-size: 16px;
+        line-height: 19px;
+    }    
+
+    .techcata_line1{
+        margin-bottom: 100px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 636px){
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        margin-left: 18px;
+    }
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 60px;
+    }
+    
+    .techcata_image1{
+        padding-right: 10px;
+        width: 62px;
+        height: 49px;
+    
+    }
+    
+    .techcata_image2{
+        padding-right: 12px;
+        width: 51px;
+        height: 49px;
+        
+    }
+    
+    .techcata_image3{
+        padding-right: 14px;
+        width: 66px;
+        height: 51px;
+        
+    }
+    
+    .techcata_image4{
+        padding-right: 16px;
+        width: 64px;
+        height: 49px;
+        
+    }
+    
+    .techcata_image5{
+        padding-right: 14px;
+        width: 66px;
+        height: 51px;
+        
+    }
+    
+    .techcata_image6{
+        padding-right: 10px;
+        width: 54px;
+        height: 50px;
+        
+    }
+    
+    .techcata_image7{
+        padding-right: 10px;
+        width: 62px;
+        height: 49px;
+        
+        
+    }
+
+    .techcata_image8{
+        width: 44px;
+        height: 50px;
+    }
+    
+    .techcata_head1{
+        padding-top: 24px;
+        padding-bottom: 130px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .techcata_head2{
+        padding-top: 36px;
+        padding-bottom: 145px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+
+    .techcata_text3{
+        padding-bottom: 44px;
+    
+    }
+
+    .techcata_block1{
+        margin-right: 30px;
+    }
+
+    .techcata_block3{
+        margin-left: 30px;
+    }
+
+    .techcata_text1{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+    
+    .techcata_text2{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+
+    .techcata_text3{
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .techcata_text4{
+        font-size: 16px;
+        line-height: 19px;
+        padding-bottom: 11px;
+    }
+    
+    .techcata_mail1{
+        font-size: 16px;
+        line-height: 19px;
+    }    
+
+    .techcata_mail2{
+        font-size: 16px;
+        line-height: 19px;
+    }    
+
+    .techcata_line1{
+        margin-bottom: 115px;
+        margin-top: 10px;
+    }
+
+    .techcata_shift{
+        display: block;
+    }
+
+
+
+}
+
+@media screen and (max-width: 547px){
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        margin-left: 18px;
+    }
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 70px;
+        margin-bottom: 60px;
+    }
+    
+    .techcata_image1{
+        padding-right: 10px;
+        width: 62px;
+        height: 49px;
+    
+    }
+    
+    .techcata_image2{
+        padding-right: 12px;
+        width: 51px;
+        height: 49px;
+        
+    }
+    
+    .techcata_image3{
+        padding-right: 14px;
+        width: 66px;
+        height: 51px;
+        
+    }
+    
+    .techcata_image4{
+        padding-right: 16px;
+        width: 64px;
+        height: 49px;
+        
+    }
+    
+    .techcata_image5{
+        padding-right: 14px;
+        width: 66px;
+        height: 51px;
+        
+    }
+    
+    .techcata_image6{
+        padding-right: 10px;
+        width: 54px;
+        height: 50px;
+        
+    }
+    
+    .techcata_image7{
+        padding-right: 10px;
+        width: 62px;
+        height: 49px;
+        
+        
+    }
+
+    .techcata_image8{
+        width: 44px;
+        height: 50px;
+    }
+    
+    .techcata_head1{
+        padding-top: 24px;
+        padding-bottom: 140px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .techcata_head2{
+        padding-top: 36px;
+        padding-bottom: 156px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+
+    .techcata_text3{
+        padding-bottom: 44px;
+    
+    }
+
+    .techcata_block1{
+        margin-right: 30px;
+    }
+
+    .techcata_block3{
+        margin-left: 30px;
+    }
+
+    .techcata_text1{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+    
+    .techcata_text2{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+
+    .techcata_text3{
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .techcata_text4{
+        font-size: 16px;
+        line-height: 19px;
+        padding-bottom: 11px;
+    }
+    
+    .techcata_mail1{
+        font-size: 16px;
+        line-height: 19px;
+    }    
+
+    .techcata_mail2{
+        font-size: 16px;
+        line-height: 19px;
+        padding-top: 36px;
+    }    
+
+    .techcata_line1{
+        margin-bottom: 120px;
+
+
+    }
+
+    .techcata_line2{
+        margin-bottom: 38px;
+        
+    }
+
+    .techcata_line3{
+        height: 110px;
+    }
+
+    .techcata_shift{
+        display: block;
+    }
+
+
+
+}
+
+@media screen and (max-width: 509px){
+
+    .techcata_header{
+        max-width: 600px;
+        width: 100%;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .techcata_container{
+        margin-left: 18px;
+    }
+
+    .techcata_header{
+        max-width: 840px;
+        width: 100%;
+        margin-top: 40px;
+        margin-bottom: 60px;
+    }
+    
+    .techcata_image1{
+        padding-right: 10px;
+        width: 52px;
+        height: 39px;
+    
+    }
+    
+    .techcata_image2{
+        padding-right: 12px;
+        width: 41px;
+        height: 39px;
+        
+    }
+    
+    .techcata_image3{
+        padding-right: 14px;
+        width: 56px;
+        height: 41px;
+        
+    }
+    
+    .techcata_image4{
+        padding-right: 16px;
+        width: 54px;
+        height: 39px;
+        
+    }
+    
+    .techcata_image5{
+        padding-right: 14px;
+        width: 56px;
+        height: 41px;
+        
+    }
+    
+    .techcata_image6{
+        padding-right: 10px;
+        width: 44px;
+        height: 40px;
+        
+    }
+    
+    .techcata_image7{
+        padding-right: 10px;
+        width: 52px;
+        height: 39px;
+        
+        
+    }
+
+    .techcata_image8{
+        width: 44px;
+        height: 40px;
+    }
+    
+    .techcata_head1{
+        padding-top: 24px;
+        padding-bottom: 140px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .techcata_head2{
+        padding-top: 36px;
+        padding-bottom: 156px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+
+    .techcata_text3{
+        padding-bottom: 44px;
+    
+    }
+
+    .techcata_block1{
+        margin-right: 30px;
+    }
+
+    .techcata_block3{
+        margin-left: 30px;
+    }
+
+    .techcata_text1{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+    
+    .techcata_text2{
+        font-size: 16px;
+        line-height: 19px;
+    
+    }
+
+    .techcata_text3{
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .techcata_text4{
+        font-size: 16px;
+        line-height: 19px;
+        padding-bottom: 11px;
+    }
+    
+    .techcata_mail1{
+        font-size: 16px;
+        line-height: 19px;
+    }    
+
+    .techcata_mail2{
+        font-size: 16px;
+        line-height: 19px;
+        padding-top: 18px;
+    }    
+
+    .techcata_line1{
+        margin-bottom: 100px;
+        height: 80px;
+
+
+    }
+
+    .techcata_line2{
+        margin-bottom: 50px;
+        margin-top: 50px;
+        
+    }
+
+    .techcata_line3{
+        height: 110px;
+    }
+
+    .techcata_shift{
+        display: block;
+    }
+
+    .techcata_nonshift{
+        display: none;
+    }
+
+
+
+}
+
+@media screen and (max-width: 320px){
+
+.techcata_dekstop{
+    display: none;
+
+    
+}
+
+.html, body{
+    background-image: url(/img/black-carbon-texture-background\ 2.png);
+    max-width: 320px;
+    height: 630px;
+}
+
+.techcata_mobile{
+    display: block;
+
+    
+}
+
+.techcata_mheader{
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.techcata_mimage1{
+    padding-right: 5px;
+
+}
+
+.techcata_mimage2{
+    padding-right: 6px;
+    
+}
+
+.techcata_mimage3{
+    padding-right: 6px;
+    
+}
+
+.techcata_mimage4{
+    padding-right: 7px;
+    
+}
+
+.techcata_mimage5{
+    padding-right: 6px;
+    
+}
+
+.techcata_mimage6{
+    padding-right: 5px;
+    
+}
+
+.techcata_mimage7{
+    padding-right: 5px;
+    
+}
+
+.techcata_mcontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.techcata_mblock1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 320px;
+}
+
+.techcata_mhead1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+
+}
+
+.techcata_mline1{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 136px;
+    margin-bottom: 12px;
+   margin-left: 92px;
+}
+
+.techcata_mhead2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 76px;
+
+
+}
+
+
+.techcata_mtext1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.techcata_mline2{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 136px;
+    align-self: center;
+    margin-bottom: 10px;
+    margin-left: 92px;
+}
+
+.techcata_mtext2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 25px;
+    color: #FFFFFF;
+}
+
+.techcata_mtext3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.techcata_mtext4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+}
+
+.techcata_mline3{
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 136px;
+    align-self: center;
+    margin-bottom: 10px;
+    margin-left: 92px;
+}
+
+.techcata_mail{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+
+}
+
+.techcata_mcopy{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+}
+
+@media screen and (max-width: 375px){
+
+    .techcata_dekstop{
+        display: none;
+    
+        
+    }
+    
+
+
+    .html, body{
+        background-image: url(/img/black-carbon-texture-background\ 2.png);
+        max-width: 375px;
+        height: 630px;
+    }
+    
+    .techcata_mobile{
+        display: block;
+    
+        
+    }
+    
+    .techcata_mheader{
+        width: 100%;
+        max-width: 375px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    
+    .techcata_mimage1{
+        padding-right: 5px;
+    
+    }
+    
+    .techcata_mimage2{
+        padding-right: 6px;
+        
+    }
+    
+    .techcata_mimage3{
+        padding-right: 6px;
+        
+    }
+    
+    .techcata_mimage4{
+        padding-right: 7px;
+        
+    }
+    
+    .techcata_mimage5{
+        padding-right: 6px;
+        
+    }
+    
+    .techcata_mimage6{
+        padding-right: 5px;
+        
+    }
+    
+    .techcata_mimage7{
+        padding-right: 5px;
+        
+    }
+    
+    .techcata_mcontainer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .techcata_mblock1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        max-width: 320px;
+    }
+    
+    .techcata_mhead1{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 27px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 12px;
+    
+    }
+    
+    .techcata_mline1{
+        border: 2px solid rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 255, 255, 0.5);
+        max-width: 136px;
+        margin-bottom: 12px;
+       margin-left: 92px;
+    }
+    
+    .techcata_mhead2{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 27px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 76px;
+    
+    
+    }
+    
+    
+    .techcata_mtext1{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 10px;
+        color: #FFFFFF;
+    }
+    
+    .techcata_mline2{
+        border: 2px solid rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 255, 255, 0.5);
+        max-width: 136px;
+        align-self: center;
+        margin-bottom: 10px;
+        margin-left: 92px;
+    }
+    
+    .techcata_mtext2{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 25px;
+        color: #FFFFFF;
+    }
+    
+    .techcata_mtext3{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 10px;
+        color: #FFFFFF;
+    }
+    
+    .techcata_mtext4{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 15px;
+        color: #FFFFFF;
+    }
+    
+    .techcata_mline3{
+        border: 2px solid rgba(255, 255, 255, 0.5);
+        background-color: rgba(255, 255, 255, 0.5);
+        max-width: 136px;
+        align-self: center;
+        margin-bottom: 10px;
+        margin-left: 92px;
+    }
+    
+    .techcata_mail{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 50px;
+    
+    }
+    
+    .techcata_mcopy{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.8);
+    
+    }
+    
+    }
+    
+
