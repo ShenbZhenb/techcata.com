@@ -1,3 +1,19 @@
+
+@media screen and (max-width: 1920px){
+    html, body{
+        height: 1080px;
+        background-size:cover;
+    }
+}
+
+@media screen and (max-width: 2560px){
+    html, body{
+        height: 100%;
+        background-size:cover;
+    }
+}
+
+
 @media screen and (max-width: 1024px){
     .techcata_header{
         margin-top: 70px;
@@ -893,7 +909,7 @@
 }
 
 .techcata_mline1{
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     max-width: 136px;
     margin-bottom: 12px;
@@ -925,7 +941,7 @@
 }
 
 .techcata_mline2{
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     max-width: 136px;
     align-self: center;
@@ -964,7 +980,7 @@
 }
 
 .techcata_mline3{
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     max-width: 136px;
     align-self: center;
@@ -1093,7 +1109,7 @@
     }
     
     .techcata_mline1{
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     width: 100%;
     max-width: 136px;
@@ -1126,7 +1142,7 @@
     }
     
     .techcata_mline2{
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     max-width: 136px;
     align-self: center;
@@ -1164,7 +1180,7 @@
     }
     
     .techcata_mline3{
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     max-width: 136px;
     align-self: center;
@@ -1292,7 +1308,7 @@
         }
         
         .techcata_mline1{
-        border: 2px solid rgba(255, 255, 255, 0.5);
+        border: 1px solid rgba(255, 255, 255, 0.5);
         background-color: rgba(255, 255, 255, 0.5);
         width: 100%;
         max-width: 136px;
@@ -1325,7 +1341,7 @@
         }
         
         .techcata_mline2{
-        border: 2px solid rgba(255, 255, 255, 0.5);
+        border: 1px solid rgba(255, 255, 255, 0.5);
         background-color: rgba(255, 255, 255, 0.5);
         max-width: 136px;
         align-self: center;
@@ -1363,7 +1379,7 @@
         }
         
         .techcata_mline3{
-        border: 2px solid rgba(255, 255, 255, 0.5);
+        border: 1px solid rgba(255, 255, 255, 0.5);
         background-color: rgba(255, 255, 255, 0.5);
         max-width: 136px;
         align-self: center;

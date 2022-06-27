@@ -85,7 +85,7 @@ html, body {
         }
         
         .techcata_block2{
-        width: 2px;
+        width: 1px;
         min-height: 310px;
         display: flex;
         flex-direction: column;
@@ -147,31 +147,31 @@ html, body {
 }
 
 .techcata_line1{
-    width: 2px;
+    width: 1px;
     height: 96px;
     display: flex;
     justify-content: flex-start;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     margin-bottom: 150px;
 }
 
 .techcata_line2{
-    width: 2px;
+    width: 1px;
     height: 24px;
     display: flex;
     justify-content: flex-start;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
     margin-bottom: 40px;
 }
 
 .techcata_line3{
-    width: 2px;
+    width: 1px;
     height: 81px;
     display: flex;
     justify-content: flex-start;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
     background-color: rgba(255, 255, 255, 0.5);
 }
 
