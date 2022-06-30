@@ -19,6 +19,7 @@
     html, body{
         height: 803px;
         width: 1024px;
+        background-size: cover;
     }
     
     .techcata_header{
@@ -175,6 +176,7 @@
 }*/
 
 @media screen and (max-width: 768px){
+     
 
     .techcata_header{
         max-width: 840px;
@@ -1020,19 +1022,19 @@
 
 }
 
-@media screen and (max-width: 376px){
+@media screen and (max-width: 375px){
 
     .techcata_dekstop{
     display: none;
     
     
     }
+
     
     
     .html, body{
     background-image: url(/img/black-carbon-texture-background\ 2.png);
     background-repeat: no-repeat;
-    background-size: cover;
     max-width: 375px;
     height: 630px;
     }
